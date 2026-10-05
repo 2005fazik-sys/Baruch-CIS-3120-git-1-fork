@@ -21,4 +21,4 @@ This file lists all students contributing Homework 1
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
 
-
+- **Frank Migliore** (GitHub: FrankMigliore) | Paths of Glory
