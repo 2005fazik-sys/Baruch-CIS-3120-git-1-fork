@@ -19,6 +19,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Stacy Chen** (GitHub: schen620) | Project Hail Mary
 **Breanna Mawugbe** (GitHub: mawugbeb) | Parent Trap
 **Sewa Sonubi** (Github: Sewasonubi) | The Odyssey!
 - **[Michael Anthony Rodriguez]** (GitHub: [Michael22424]) | [Mononoke the Movie: Chapter III - The Curse of the Serpent]
