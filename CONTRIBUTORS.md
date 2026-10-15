@@ -20,6 +20,8 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+
+- **Frank Migliore** (GitHub: FrankMigliore) | Paths of Glory
 **Tina Ye** (GitHub: tytinaye) | Howl's Moving Castle
 **Johann Cabrera** ((GitHub:ljaycab) | Ready Player One!
 **Hoang Son Nguyen** (GitHub: sonhnguyen273) | The Lord of the Rings: The Two Towers
