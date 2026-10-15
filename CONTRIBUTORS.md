@@ -13,7 +13,7 @@ This file lists all students contributing Homework 1
 ---
 
 ### Format:
-**[Your Full Name]** (GitHub: [Your GitHub Username]) | [Your Favorite Movie]
+**David Romero** (GitHub: DayvidRomero) | We Made A Beautiful Bouquet 
 
 ### Example:
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
