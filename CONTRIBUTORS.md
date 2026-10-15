@@ -13,7 +13,7 @@ This file lists all students contributing Homework 1
 ---
 
 ### Format:
-**[Your Full Name]** (GitHub: [Your GitHub Username]) | [Your Favorite Movie]
+**David Romero** (GitHub: DayvidRomero) | We Made A Beautiful Bouquet 
 
 ### Example:
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
@@ -22,3 +22,10 @@ This file lists all students contributing Homework 1
 <!-- Students: Add your entries below this line! -->
 
 - **Frank Migliore** (GitHub: FrankMigliore) | Paths of Glory
+**Tina Ye** (GitHub: tytinaye) | Howl's Moving Castle
+**Johann Cabrera** ((GitHub:ljaycab) | Ready Player One!
+**Hoang Son Nguyen** (GitHub: sonhnguyen273) | The Lord of the Rings: The Two Towers
+- **Royeed Wardak** (GitHub: Royeed) | Interstellar
+- **Taecvin Ni** (GitHub: 8oop) | Dune Part 2
+- **ISHWOR SHRESTHA** (GitHub: ishworshrestha703-code) | The Last Airbender
+**Tyler Petty** (GitHub: TPetty68) | Shutter Island
