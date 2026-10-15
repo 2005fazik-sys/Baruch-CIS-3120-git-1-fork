@@ -18,7 +18,8 @@ This file lists all students contributing Homework 1
 **Vinayak Javaly** (GitHub: vjavaly) | Apocalypse Now!
 
 ## Student contributors: 
-<!-- Students: Add your entries below this line! -->
+<!-- Students: Add your entries below this line! S
+**Sewa Sonubi** (Github: Sewasonubi) | The Odyssey!
 - **[Michael Anthony Rodriguez]** (GitHub: [Michael22424]) | [Mononoke the Movie: Chapter III - The Curse of the Serpent]
 **David Romero** (GitHub: DayvidRomero) | We Made A Beautiful Bouquet 
 **Kelsy Lopez** (GitHub: kelsylopez135-boop) | V for Vendetta
