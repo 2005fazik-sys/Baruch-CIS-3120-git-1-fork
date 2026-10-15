@@ -20,7 +20,7 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+- **Royeed Wardak** (GitHub: Royeed) | Interstellar
 - **Taecvin Ni** (GitHub: 8oop) | Dune Part 2
-
 - **ISHWOR SHRESTHA** (GitHub: ishworshrestha703-code) | The Last Airbender
 
