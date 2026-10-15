@@ -20,10 +20,10 @@ This file lists all students contributing Homework 1
 
 ## Student contributors: 
 <!-- Students: Add your entries below this line! -->
+**Tina Ye** (GitHub: tytinaye) | Howl's Moving Castle
 **Johann Cabrera** ((GitHub:ljaycab) | Ready Player One!
 **Hoang Son Nguyen** (GitHub: sonhnguyen273) | The Lord of the Rings: The Two Towers
 - **Royeed Wardak** (GitHub: Royeed) | Interstellar
 - **Taecvin Ni** (GitHub: 8oop) | Dune Part 2
 - **ISHWOR SHRESTHA** (GitHub: ishworshrestha703-code) | The Last Airbender
-
 **Tyler Petty** (GitHub: TPetty68) | Shutter Island
